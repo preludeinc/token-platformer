@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - CameraBounds
+  - Health
+  - Sword
+  - Water
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Obstacle
+  - Ground
+  - Waves
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1409399215
+    locked: 0
+  - name: Obstacles
+    uniqueID: 146660091
+    locked: 0
+  - name: Ground
+    uniqueID: 2924141727
+    locked: 0
+  - name: Ladder
+    uniqueID: 399292273
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3876805067
+    locked: 0
+  - name: Water
+    uniqueID: 2453453453
+    locked: 0
+  - name: Waves
+    uniqueID: 3714314635
+    locked: 0

@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 451593f84047f6744bb9b9745fd30aed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: summer__31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5070ab4166a87440a26948ca51ad75e
+      internalID: -974138796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227daf3755fedc04f8aa7796bbb1c58a
+      internalID: -980076665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f009a20beb1a44f8d40198af8b2360
+      internalID: -760122715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d6d184bf8b2b44b891a1e0810aca99
+      internalID: 2122710726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27914382a4d494a4aba3224432581f5a
+      internalID: -154916655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9941d45c9707468c0227eba9fbc5f
+      internalID: 394625004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5835fede607185446829354beef1653e
+      internalID: -400905577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c584b5a1b393d5645890c008871288d5
+      internalID: -1675181906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1eae828ca9e840a2e9711e909b62d
+      internalID: 2111551221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dcec89896444b43b4a4d0ffe762f02
+      internalID: 1462375782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer__125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99253f751d8f21e4086bccd8b732f5cc
+      internalID: 149360463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      summer__0: 894839122
+      summer__1: 1962750898
+      summer__10: -1771956442
+      summer__100: 1468098600
+      summer__101: 82580961
+      summer__102: 12290101
+      summer__103: 2111551221
+      summer__104: -992994447
+      summer__105: -388321131
+      summer__106: 1951647021
+      summer__107: 225224802
+      summer__108: -137020144
+      summer__109: -1116893237
+      summer__11: -1061012036
+      summer__110: 1504937443
+      summer__111: -75258591
+      summer__112: -1934861025
+      summer__113: 1753671065
+      summer__114: 1305499319
+      summer__115: -2092295102
+      summer__116: -1225488236
+      summer__117: 540783384
+      summer__118: 1593327674
+      summer__119: -1030498761
+      summer__12: -1833465501
+      summer__120: 1462375782
+      summer__121: 1560199146
+      summer__122: 1872515001
+      summer__123: -1991494385
+      summer__124: -413494944
+      summer__125: 1584262748
+      summer__126: 149360463
+      summer__13: -583432758
+      summer__14: -1387898861
+      summer__15: -1747421550
+      summer__16: -232339717
+      summer__17: 133981641
+      summer__18: -984847012
+      summer__19: -769231022
+      summer__2: -1457269584
+      summer__20: 610327931
+      summer__21: 1947408025
+      summer__22: -552748489
+      summer__23: -145974442
+      summer__24: 1915899777
+      summer__25: 183926465
+      summer__26: 693150483
+      summer__27: -413728703
+      summer__28: -1905233321
+      summer__29: 252931410
+      summer__3: -238379809
+      summer__30: -427672044
+      summer__31: -2018211781
+      summer__32: -974138796
+      summer__33: 2124969687
+      summer__34: 2037274817
+      summer__35: -980076665
+      summer__36: 694722338
+      summer__37: -1469200501
+      summer__38: 554925726
+      summer__39: 1010858606
+      summer__4: 1110072308
+      summer__40: 1270822997
+      summer__41: -760122715
+      summer__42: 1434791143
+      summer__43: 1662643216
+      summer__44: 466639967
+      summer__45: -952354002
+      summer__46: -299727101
+      summer__47: -1592161257
+      summer__48: -1023054244
+      summer__49: 5934175
+      summer__5: 448054235
+      summer__50: -2080062117
+      summer__51: 619150320
+      summer__52: 84758438
+      summer__53: -692961667
+      summer__54: -1361084880
+      summer__55: 284586214
+      summer__56: -1490498186
+      summer__57: -1286653161
+      summer__58: -1794882261
+      summer__59: -1522728258
+      summer__6: -1879070921
+      summer__60: 2096957509
+      summer__61: -1312811894
+      summer__62: 2122710726
+      summer__63: 291080269
+      summer__64: -154916655
+      summer__65: -1455372361
+      summer__66: 1332348238
+      summer__67: -1401105044
+      summer__68: -1728462639
+      summer__69: 1792271720
+      summer__7: 1477583341
+      summer__70: -981448235
+      summer__71: -153322365
+      summer__72: 394625004
+      summer__73: 1171267487
+      summer__74: 2008202849
+      summer__75: -643551179
+      summer__76: 2009522405
+      summer__77: 1782533804
+      summer__78: -994534131
+      summer__79: 1307535692
+      summer__8: -188558443
+      summer__80: -85538268
+      summer__81: -1929845322
+      summer__82: 842783994
+      summer__83: -1570140348
+      summer__84: 1476369234
+      summer__85: 565396809
+      summer__86: 1100845345
+      summer__87: 1417073863
+      summer__88: 2019239825
+      summer__89: 803744629
+      summer__9: 432343315
+      summer__90: -945818720
+      summer__91: 1505624524
+      summer__92: 1617160333
+      summer__93: -400905577
+      summer__94: 1729287936
+      summer__95: -1675181906
+      summer__96: 161476659
+      summer__97: -641992712
+      summer__98: 527430052
+      summer__99: -1702534019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
