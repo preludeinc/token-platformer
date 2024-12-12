@@ -5,12 +5,6 @@ The player can jump, dash, attack (by jumping on enemies and using his sword), a
 Enemies follow the player using A\* pathfinding, and will attack within a certain radius.
 An audiomixer assists with volume controls, and a confetti particle effect is displayed on player win.
 
-### Features
-- Controllers manage enemy and player movement, sound, and update the User Interface
-- Game state is tracked through events
-- AI Pathfinding guides enemy movement
-- SoundMixer controls master, sound effect, and music volume
-
 ![image](https://github.com/user-attachments/assets/f31351b8-2855-4d03-9298-b18b11fb37cf)
 
 
